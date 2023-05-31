@@ -1,4 +1,4 @@
-# portafolio.
+Grupo 5 "challengeonecodificador5
 # Encriptador y Desencriptador de Texto
 
 Este proyecto consiste en un encriptador y desencriptador de texto simple utilizando HTML, CSS y JavaScript. Permite cifrar y descifrar mensajes utilizando un algoritmo de encriptación básico.
